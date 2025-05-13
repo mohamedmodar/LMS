@@ -1,9 +1,5 @@
 # LMS Project - README
 
-## Project Description
-
-[Add a brief description of your LMS project here. What is its purpose? What are its key features?  What problem does it solve?]
-
 ## Installation
 
 To get started with this project, follow these steps:
